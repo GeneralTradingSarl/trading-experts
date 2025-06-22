@@ -1,0 +1,21 @@
+# MetaTrader 5 specific files
+*.log
+*.tmp
+*.cache
+
+# Compiled files (optional - you might want to keep .ex5 files)
+# *.ex5
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup 

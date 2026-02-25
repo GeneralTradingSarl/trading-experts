@@ -88,3 +88,12 @@ For questions or support, please open an issue in this repository.
 ---
 
 **Disclaimer**: Trading involves risk. These expert advisors are for educational purposes. Always test thoroughly on a demo account before live trading. 
+## Support & Contributions
+
+If you appreciate this work and would like to support the project or make a contributive gift, you can send your donations to the following address:
+
+**USDT Address (TRC20):**
+TCFN1ng97DnMNHKrtyWuUUnUeQN3nZChrG
+
+---
+*Note: This is a TRON network (TRC20) address only.*
